@@ -1,0 +1,4 @@
+nose
+coveralls
+ordereddict
+importlib
